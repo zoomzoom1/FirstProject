@@ -1,1 +1,1 @@
-This is my first project. I am going to develop program to create stack in in AWS cloud. The stack will be a mesos and marathon cluster.
+This is my first project. I am going to develop program to create stack in in AWS cloud. The stack will be a mesos and marathon cluster. I will use zookeeper to choose mesos master leader and akka cluster for slaves nodes cluster.
